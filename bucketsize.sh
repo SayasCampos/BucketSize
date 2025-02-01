@@ -22,6 +22,7 @@ do
        # echo -n "$BUCKET - "
         gsutil du -hs $BUCKET
       done
+      
     fi
   done
 done
